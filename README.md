@@ -1,2 +1,0 @@
-# aoluma
-Created with CodeSandbox
